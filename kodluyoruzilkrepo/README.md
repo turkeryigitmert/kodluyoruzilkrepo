@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Frontend eğitiminde oluşturduğumuz ilk Repo. İçerisinde bir adet README dosyası, bir adette index.html barındırıyor.
-! [Kodluyoruz] ("C:\Users\yigit\Desktop\kodluyoruz.png")
+! [Kodluyoruz] (https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ```bash
